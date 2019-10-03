@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mieneifay.pietmeulen.nl/sitemap.xml
